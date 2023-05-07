@@ -2,7 +2,7 @@
 
 Simple implementation of genetic algorithm for solving n Queens problem.
 
-# Evoluton process
+# Evolution process
 
 This project implements genetic algorithm for solving n Queens problem.
 Code generates random population od declared size where every invidual is represented by list containg row position on the board.
